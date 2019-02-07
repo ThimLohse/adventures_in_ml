@@ -21,7 +21,6 @@ activate myenv
 source activate myenv
 ```
 6. Navigate into desired folder and open the jupyter notebook using command:
-  * 
 ```bash
 jupyter notebook
 ```
