@@ -12,25 +12,25 @@ conda env create -f environment.yml
 conda list
 ```
 5. Activate the environment (change 'myenv' to the name of the environment):
-..* On Windows, in your Anaconda Prompt run:
+  * On Windows, in your Anaconda Prompt run:
 ```bash
 activate myenv
 ```
-..* On macOS and Linux
+  * On macOS and Linux
 ```bash
 source activate myenv
 ```
 6. Navigate into desired folder and open the jupyter notebook using command:
-..* 
+  * 
 ```bash
 jupyter notebook
 ```
 7. To deactivate the environment
-..* On Windows, in your Anaconda Prompt run:
+  * On Windows, in your Anaconda Prompt run:
 ```bash
 deactivate
 ```
-..* On macOS and Linux
+  * On macOS and Linux
 ```bash
 source deactivate
 ```
