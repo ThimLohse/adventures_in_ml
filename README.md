@@ -1,4 +1,8 @@
 # Adventures in ML
+
+## Project specific documentation
+[Github Pages](https://thimlohse.github.io/adventures_in_ml/ "Project Page")
+
 ## How to run
 ### anaconda is used for the virtual environment.
 1. Clone the repo.
