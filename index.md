@@ -7,4 +7,4 @@
 * [Link To Project List](./own/docs/index.md)
 
 ## Collaboration Projects
-* [Link To Project List](./collab/docs/index.md)
+* [Link To Project List](./collabs/docs/index.md)
