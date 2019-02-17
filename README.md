@@ -9,7 +9,7 @@
 2. Install anaconda if not already installed.
 3. Setup the environment using the following commands:
 ```bash
-conda env create -f environment.yml
+conda env create -f environment_setup.yml
 ```
 4. Verify that the new environment was installed correctly:
 ```bash
